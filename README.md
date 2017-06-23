@@ -3,7 +3,7 @@ PHP sms gateway script to send text messages.
 
 ## Getting Started
 
-1. Create a file and clone the PHPMailer Repo.
+1. Create a directory and clone the PHPMailer Repo.
 ```sh
 $ mkdir whatever_file
 $ cd whatever_file
