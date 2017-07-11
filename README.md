@@ -5,8 +5,8 @@ PHP sms gateway script to send text and email messages.
 
 1. Create a directory and clone the Prank-Bot Repo.
 ```sh
-$ mkdir whatever_file
-$ cd whatever_file
+$ mkdir whatever_name
+$ cd whatever_name
 $ git clone https://github.com/gr8appskc/Prank-Bot.git
 ```
 2. Configure the mailer with your credentials. 
