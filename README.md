@@ -17,7 +17,7 @@ $ git clone https://github.com/gr8appskc/Prank-Bot.git
 $ chmod u+x prank_bot.php
 ```
 ### In Use
-![](https://raw.githubusercontent.com/gr8appskc/Prank-Bot/79684db856ae5f8e74831699c786385ae0b45fa9/example-run.png)
+![](https://raw.githubusercontent.com/gr8appskc/Prank-Bot/master/example-run.png)
 
 
 #### Notes
