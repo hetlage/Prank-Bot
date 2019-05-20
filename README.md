@@ -7,7 +7,7 @@ PHP sms gateway script to send text and email messages.
 ```sh
 $ mkdir whatever_name
 $ cd whatever_name
-$ git clone https://github.com/gr8appskc/Prank-Bot.git
+$ git clone <this repo>
 ```
 2. Configure the mailer with your credentials. 
 ![](https://raw.githubusercontent.com/gr8appskc/Prank-Bot/3cee54b9c5fee3a209d4c7a4d639965b2fb4d509/prank-bot-credentials.png)
@@ -24,4 +24,4 @@ $ chmod u+x prank_bot.php
 + Prank-Bot can send a consistent message to a single phone number or email address over and over and over and over(okay I think you get it).
 + If spoofing the "from address", don't use Gmail as they will reveal where the message originated. Use another smtp server...
 + When using Prank-Bot for sms, you will need to know the carrier of the intended message receipient. 
-Use this tool from [Twilio](https://www.twilio.com/lookup) to verify the carrier.
+Tip: You may want to verify the carrier if unsure.
